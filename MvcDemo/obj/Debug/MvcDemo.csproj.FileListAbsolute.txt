@@ -88,180 +88,93 @@ c:\users\aamir\documents\visual studio 2013\Projects\MvcDemo\MvcDemo\bin\zh-Hant
 c:\users\aamir\documents\visual studio 2013\Projects\MvcDemo\MvcDemo\obj\Debug\MvcDemo.csprojResolveAssemblyReference.cache
 c:\users\aamir\documents\visual studio 2013\Projects\MvcDemo\MvcDemo\obj\Debug\MvcDemo.dll
 c:\users\aamir\documents\visual studio 2013\Projects\MvcDemo\MvcDemo\obj\Debug\MvcDemo.pdb
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\MvcDemo.dll.config
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\MvcDemo.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\MvcDemo.pdb
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Antlr3.Runtime.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.AspNet.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.Core.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OAuth.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OpenId.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\EntityFramework.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Data.Edm.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Data.OData.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Web.WebPages.OAuth.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Newtonsoft.Json.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Net.Http.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Net.Http.Formatting.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Net.Http.WebRequest.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Spatial.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Helpers.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Http.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Http.OData.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Http.WebHost.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Mvc.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Optimization.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Razor.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.WebPages.Deployment.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.WebPages.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.WebPages.Razor.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\WebGrease.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\WebMatrix.Data.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\WebMatrix.WebData.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\EntityFramework.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Newtonsoft.Json.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Net.Http.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Net.Http.Formatting.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Net.Http.WebRequest.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Helpers.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Http.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Http.WebHost.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Mvc.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Razor.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.WebPages.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.WebPages.Deployment.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.WebPages.Razor.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\WebMatrix.Data.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Web.WebPages.OAuth.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\WebMatrix.WebData.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.Core.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Web.Http.OData.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Data.Edm.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\Microsoft.Data.OData.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\System.Spatial.xml
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\de\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\es\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\fr\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\it\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ja\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ko\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ru\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\de\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\es\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\fr\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\it\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ja\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ko\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ru\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\de\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\es\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\fr\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\it\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ja\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ko\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\ru\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\zh-Hans\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\obj\Debug\MvcDemo.csprojResolveAssemblyReference.cache
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\obj\Debug\MvcDemo.dll
-C:\Users\elev\Documents\Visual Studio 2015\Projects\labb2\MvcDemo\obj\Debug\MvcDemo.pdb
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\MvcDemo.dll.config
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\MvcDemo.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\MvcDemo.pdb
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Antlr3.Runtime.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.AspNet.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.Core.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OAuth.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OpenId.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\EntityFramework.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Data.Edm.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Data.OData.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Web.WebPages.OAuth.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Newtonsoft.Json.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Net.Http.Formatting.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Spatial.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Helpers.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Http.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Http.OData.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Http.WebHost.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Mvc.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Optimization.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Razor.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.WebPages.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.WebPages.Razor.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\WebGrease.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\WebMatrix.WebData.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Net.Http.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\EntityFramework.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Newtonsoft.Json.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Net.Http.Formatting.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Helpers.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Http.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Http.WebHost.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Mvc.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Razor.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.WebPages.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.WebPages.Razor.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\WebMatrix.Data.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Web.WebPages.OAuth.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\WebMatrix.WebData.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.Core.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Web.Http.OData.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Data.Edm.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\Microsoft.Data.OData.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Spatial.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\System.Net.Http.xml
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\de\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\es\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\fr\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\it\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ja\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ko\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ru\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\de\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\es\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\fr\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\it\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ja\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ko\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ru\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\de\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\es\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\fr\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\it\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ja\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ko\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\ru\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\zh-Hans\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\obj\Debug\MvcDemo.csprojResolveAssemblyReference.cache
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\obj\Debug\MvcDemo.dll
-C:\Users\Elev\Source\Repos\Lab2_MVC2\MvcDemo\obj\Debug\MvcDemo.pdb
+D:\Lab2MVC\MvcDemo\bin\MvcDemo.dll.config
+D:\Lab2MVC\MvcDemo\bin\MvcDemo.dll
+D:\Lab2MVC\MvcDemo\bin\MvcDemo.pdb
+D:\Lab2MVC\MvcDemo\bin\Antlr3.Runtime.dll
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.AspNet.dll
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.Core.dll
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OAuth.dll
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OpenId.dll
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Lab2MVC\MvcDemo\bin\EntityFramework.dll
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Data.Edm.dll
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Data.OData.dll
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Lab2MVC\MvcDemo\bin\Newtonsoft.Json.dll
+D:\Lab2MVC\MvcDemo\bin\System.Net.Http.dll
+D:\Lab2MVC\MvcDemo\bin\System.Net.Http.Formatting.dll
+D:\Lab2MVC\MvcDemo\bin\System.Net.Http.WebRequest.dll
+D:\Lab2MVC\MvcDemo\bin\System.Spatial.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Helpers.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Http.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Http.OData.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Http.WebHost.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Mvc.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Optimization.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.Razor.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.WebPages.dll
+D:\Lab2MVC\MvcDemo\bin\System.Web.WebPages.Razor.dll
+D:\Lab2MVC\MvcDemo\bin\WebGrease.dll
+D:\Lab2MVC\MvcDemo\bin\WebMatrix.Data.dll
+D:\Lab2MVC\MvcDemo\bin\WebMatrix.WebData.dll
+D:\Lab2MVC\MvcDemo\bin\EntityFramework.xml
+D:\Lab2MVC\MvcDemo\bin\Newtonsoft.Json.xml
+D:\Lab2MVC\MvcDemo\bin\System.Net.Http.xml
+D:\Lab2MVC\MvcDemo\bin\System.Net.Http.Formatting.xml
+D:\Lab2MVC\MvcDemo\bin\System.Net.Http.WebRequest.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.Helpers.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.Http.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.Http.WebHost.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.Mvc.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.Razor.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.WebPages.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.WebPages.Razor.xml
+D:\Lab2MVC\MvcDemo\bin\WebMatrix.Data.xml
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Lab2MVC\MvcDemo\bin\WebMatrix.WebData.xml
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.AspNet.xml
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.Core.xml
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OAuth.xml
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OpenId.xml
+D:\Lab2MVC\MvcDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Lab2MVC\MvcDemo\bin\System.Web.Http.OData.xml
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Data.Edm.xml
+D:\Lab2MVC\MvcDemo\bin\Microsoft.Data.OData.xml
+D:\Lab2MVC\MvcDemo\bin\System.Spatial.xml
+D:\Lab2MVC\MvcDemo\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Lab2MVC\MvcDemo\bin\de\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\es\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\it\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Lab2MVC\MvcDemo\bin\de\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\es\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\fr\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\it\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ja\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ko\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\ru\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\zh-Hans\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\bin\zh-Hant\System.Spatial.resources.dll
+D:\Lab2MVC\MvcDemo\obj\Debug\MvcDemo.csprojResolveAssemblyReference.cache
+D:\Lab2MVC\MvcDemo\obj\Debug\MvcDemo.dll
+D:\Lab2MVC\MvcDemo\obj\Debug\MvcDemo.pdb
