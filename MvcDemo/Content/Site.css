@@ -777,8 +777,7 @@ tr.pager td {
     font-size:20px;
     box-sizing:border-box;
    
-     @media only screen and (max-width: 500px) {
-    body {
+    
          background-color: lightblue;
          /* For desktop: */
 .col-1 {width: 8.33%;}
